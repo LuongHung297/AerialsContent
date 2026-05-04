@@ -1,1 +1,12 @@
-{"local":true,"name":"animeScreen","more":"","scenes":["Nature"],"description":"Local files from \/Users\/luonghung\/Desktop\/screenImage","manifestUrl":"https://raw.githubusercontent.com/LuongHung297/AerialsContent/main/manifest.json","cacheable":false,"license":""}
+{
+    "local": true,
+    "name": "animeScreen",
+    "more": "",
+    "scenes": [
+        "Nature"
+    ],
+    "description": "Anime file from youtube",
+    "manifestUrl": "https://raw.githubusercontent.com/LuongHung297/AerialsContent/main/manifest.json",
+    "cacheable": false,
+    "license": ""
+}
