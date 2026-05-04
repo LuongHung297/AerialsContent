@@ -1,5 +1,5 @@
 {
-    "local": true,
+    "local": false,
     "name": "animeScreen",
     "more": "",
     "scenes": [
@@ -7,6 +7,6 @@
     ],
     "description": "Anime file from youtube",
     "manifestUrl": "https://raw.githubusercontent.com/LuongHung297/AerialsContent/main/entries.json",
-    "cacheable": false,
+    "cacheable":true,
     "license": ""
 }
