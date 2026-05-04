@@ -6,7 +6,7 @@
         "Nature"
     ],
     "description": "Anime file from youtube",
-    "manifestUrl": "https://raw.githubusercontent.com/LuongHung297/AerialsContent/main/manifest.json",
+    "manifestUrl": "https://raw.githubusercontent.com/LuongHung297/AerialsContent/main/entries.json",
     "cacheable": false,
     "license": ""
 }
