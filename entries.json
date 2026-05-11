@@ -1,8 +1,8 @@
 {
     "assets": [
         {
-            "accessibilityLabel": "animeScreen",
-            "title": "Eye girl",
+            "accessibilityLabel": "EYE GIRL",
+            "title": "",
             "url-4K-SDR-120FPS": "",
             "url-1080-SDR": "",
             "url-1080-H264": "",
@@ -10,6 +10,23 @@
             "scene": "anime",
             "url-4K-SDR": "https://raw.githubusercontent.com/LuongHung297/AerialsContent/main/output.mp4",
             "id": "2AAF988F-EAD0-4CCF-887D-752C50EBE6A8",
+            "type": "nature",
+            "timeOfDay": "day",
+            "url-4K-SDR-240FPS": "",
+            "url-4K-HDR": "",
+            "pointsOfInterest": {},
+            "url-1080-HDR": ""
+        },
+        {
+            "accessibilityLabel": "DUCK DANCE",
+            "title": "",
+            "url-4K-SDR-120FPS": "",
+            "url-1080-SDR": "",
+            "url-1080-H264": "",
+            "url": "",
+            "scene": "animal",
+            "url-4K-SDR": "https://raw.githubusercontent.com/LuongHung297/AerialsContent/main/duckDance.mp4",
+            "id": "2AAF988F-EAD0-4CCF-887D-752C50EBE6A9",
             "type": "nature",
             "timeOfDay": "day",
             "url-4K-SDR-240FPS": "",
